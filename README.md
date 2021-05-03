@@ -1,4 +1,4 @@
-#LaskarNalar ini adalah tempat saya berkreasi untuk pengembangan bahasa dan website (Front end)
+#LaskarNalar ini adalah tempat saya berkreasi untuk pengembangan bahasa inggris dan website (Front end)
 1. Menambahkan konten
 2. Merapikan kode
 3. _Minimalism Code_
